@@ -1,8 +1,9 @@
-export const firebaseConfig= {
-    apiKey: "AIzaSyCofMSxkrcwb3UnGRW5DsfHEmz7youQzEA",
-    authDomain: "startjs-d468d.firebaseapp.com",
-    projectId: "startjs-d468d",
-    storageBucket: "startjs-d468d.appspot.com",
-    messagingSenderId: "448295349623",
-    appId: "1:448295349623:web:457acac5674b2df228c572"
-};
+export const firebaseConfig = {
+    apiKey: "AIzaSyDFwYxAAAbYacGNzBpJd9r9O81grC2H5GE",
+    authDomain: "b50c2frontend-64fb0.firebaseapp.com",
+    projectId: "b50c2frontend-64fb0",
+    storageBucket: "b50c2frontend-64fb0.appspot.com",
+    messagingSenderId: "740857289735",
+    appId: "1:740857289735:web:b7cd2391c887e8b865dea2",
+    measurementId: "G-5BTWLJWXMG"
+  };
