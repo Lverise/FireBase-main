@@ -17,7 +17,7 @@ const registrar = ()=>{
     let vRut = eRut.value
     let eCorreo = document.getElementById("correo");
     let vCorreo = eCorreo.value
-    let eFecha = document.getElementById("fechanaciemiento");
+    let eFecha = document.getElementById("fechanacimiento");
     let vFecha = eFecha.value
     let objeto = {nombre:vNombre,apellido:vApellido,edad:vEdad,rut:vRut,correo:vCorreo,fechanacimiento:vFecha};
 
